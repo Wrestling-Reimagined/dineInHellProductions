@@ -20,7 +20,7 @@ function App() {
         <section className="hero" aria-labelledby="hero-title">
           <div className="hero-content">
             <p className="eyebrow">
-              Media Studio for Brands That Don't Play It Safe!!!
+              Media Studio for Brands That Don't Play Safe
             </p>
             <h1 id="hero-title">Dine in Hell Productions</h1>
             <p className="hero-subtitle">
