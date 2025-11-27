@@ -5,6 +5,26 @@ const INTRO_VIDEO_URL =
 function App() {
   return (
     <div className="page">
+      {/* Red Flames Container */}
+      <div className="flame-container">
+        <div className="flame flame-1"></div>
+        <div className="flame flame-2"></div>
+        <div className="flame flame-3"></div>
+        <div className="flame flame-4"></div>
+        <div className="flame flame-5"></div>
+        <div className="flame flame-6"></div>
+        <div className="flame flame-7"></div>
+        <div className="flame flame-8"></div>
+        <div className="flame flame-9"></div>
+        <div className="flame flame-10"></div>
+        <div className="flame flame-11"></div>
+        <div className="flame flame-12"></div>
+        <div className="flame flame-bg flame-bg-1"></div>
+        <div className="flame flame-bg flame-bg-2"></div>
+        <div className="flame flame-bg flame-bg-3"></div>
+        <div className="flame flame-bg flame-bg-4"></div>
+      </div>
+
       <header className="site-header">
         <div className="brand">Dine in Hell Productions</div>
         <nav className="nav">
@@ -18,6 +38,8 @@ function App() {
 
       <main>
         <section className="hero" aria-labelledby="hero-title">
+          <div className="flame flame-1" style={{ position: 'absolute', top: '20%', left: '2%', zIndex: 0 }}></div>
+          <div className="flame flame-2" style={{ position: 'absolute', top: '30%', right: '3%', zIndex: 0 }}></div>
           <div className="hero-content">
             <p className="eyebrow">
               Media Studio for Brands That Don't Play Safe
