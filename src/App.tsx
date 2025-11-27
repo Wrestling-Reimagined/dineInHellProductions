@@ -19,7 +19,7 @@ function App() {
       <main>
         <section className="hero" aria-labelledby="hero-title">
           <div className="hero-content">
-            <p className="eyebrow">Media Studio for PENIS!</p>
+            <p className="eyebrow">Media Studio for Champs!</p>
             <h1 id="hero-title">Dine in Hell Productions</h1>
             <p className="hero-subtitle">
               We craft cinematic visuals that burn into memory and move your
