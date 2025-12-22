@@ -106,11 +106,17 @@ function App() {
               </p>
             </article>
             <article className="card">
-              <h3>Commercial Spots</h3>
-              <p>
-                Tight, punchy ads built for launch moments, product reveals, and
-                campaigns that demand attention.
-              </p>
+              <a 
+                href="https://youtu.be/jYyLn6H1A2A" 
+                target="_blank" 
+                rel="noreferrer"
+                style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}
+              >
+                <h3>YouTube Tutorials</h3>
+                <p>
+                Tutorials are an excellent way to capitalize on search traffic and establish authority in your industry, making it easier to drive product sales.
+                </p>
+              </a>
             </article>
             <article className="card">
               <h3>Social Content &amp; Campaigns</h3>
@@ -120,11 +126,18 @@ function App() {
               </p>
             </article>
             <article className="card">
-              <h3>Documentary &amp; Event</h3>
-              <p>
-                On-location storytelling that captures the real stakes, real
-                people, and real moments behind your brand.
-              </p>
+              <a 
+                href="https://www.youtube.com/watch?v=l5wU3B79BQA" 
+                target="_blank" 
+                rel="noreferrer"
+                style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}
+              >
+                <h3>Documentary &amp; Event</h3>
+                <p>
+                  On-location storytelling that captures the real stakes, real
+                  people, and real moments behind your brand.
+                </p>
+              </a>
             </article>
           </div>
         </section>
