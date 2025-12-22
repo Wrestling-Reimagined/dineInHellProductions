@@ -1,4 +1,3 @@
-const CALENDLY_URL = "https://calendly.com/your-placeholder-link";
 const INTRO_VIDEO_URL =
   "https://www.youtube.com/embed/l5wU3B79BQA?si=7mAwv2xc6H8nIXQ6";
 
@@ -30,11 +29,9 @@ function App() {
             <div className="hero-actions">
               <a
                 className="btn btn-primary"
-                href={CALENDLY_URL}
-                target="_blank"
-                rel="noreferrer"
+                href="tel:516-582-2816"
               >
-                Book a Call
+                Text or Call 516-582-2816
               </a>
               <a className="btn btn-ghost" href="#video">
                 Watch the Reel
@@ -243,18 +240,16 @@ function App() {
             <p className="eyebrow">Contact</p>
             <h2>Ready to light the fuse?</h2>
             <p className="section-subtitle">
-              Book a 20-minute call and let&apos;s talk about the next piece
+              Text or call 516-582-2816 to talk about the next piece
               your brand needs.
             </p>
           </div>
           <div className="contact-actions">
             <a
               className="btn btn-primary"
-              href={CALENDLY_URL}
-              target="_blank"
-              rel="noreferrer"
+              href="tel:516-582-2816"
             >
-              Book a Call
+              Text or Call 516-582-2816
             </a>
             <p className="contact-email">
               Prefer email? Reach out at{" "}
