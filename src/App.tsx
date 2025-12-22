@@ -23,8 +23,7 @@ function App() {
             </p>
             <h1 id="hero-title">Dine in Hell Productions</h1>
             <p className="hero-subtitle">
-              We craft cinematic visuals that burn into memory and move your
-              audience to act.
+            We craft cinematic, high-quality video content—short- and long-form—strategically built on real SEO search data so your audience actually finds it, watches it, and converts.
             </p>
             <div className="hero-actions">
               <a
