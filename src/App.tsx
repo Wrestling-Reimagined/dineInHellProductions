@@ -32,6 +32,12 @@ function App() {
               >
                 Text or Call 516-582-2816
               </a>
+              <a
+                className="btn btn-ghost"
+                href="mailto:DineInHellProductions@gmail.com"
+              >
+                Email Us
+              </a>
               <a className="btn btn-ghost" href="#video">
                 Watch the Reel
               </a>
@@ -73,11 +79,16 @@ function App() {
               From first spark to final export, we keep the process sharp,
               focused, and unapologetically creative.
             </p>
+            <p> 
+              We use real SEO data from your industry to capture the attention 
+              of your potential customers. We do the research before shooting, 
+              so we can make sure your video is seen by the right people.
+            </p>
           </div>
           <aside className="stats">
             <div className="stat">
-              <span className="stat-label">Years Shooting</span>
-              <span className="stat-value">10+</span>
+              <span className="stat-label">Videos Filmed</span>
+              <span className="stat-value">1,000+</span>
             </div>
             <div className="stat">
               <span className="stat-label">Brand Films</span>
@@ -119,11 +130,18 @@ function App() {
               </a>
             </article>
             <article className="card">
-              <h3>Social Content &amp; Campaigns</h3>
-              <p>
-                Thumb-stopping short-form built for feeds, stories, and paid
-                media that actually converts.
-              </p>
+              <a 
+                href="https://youtube.com/shorts/v34zHHYVF4s?feature=share" 
+                target="_blank" 
+                rel="noreferrer"
+                style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}
+              >
+                <h3>Social Content &amp; Campaigns</h3>
+                <p>
+                  Thumb-stopping short-form built for feeds, stories, and paid
+                  media that actually converts.
+                </p>
+              </a>
             </article>
             <article className="card">
               <a 
@@ -266,7 +284,7 @@ function App() {
             <p className="contact-email">
               Prefer email? Reach out at{" "}
               <a href="mailto:hello@dineinhellproductions.com">
-                hello@dineinhellproductions.com
+                dineinhellproductions@gmail.com
               </a>
               .
             </p>
