@@ -110,11 +110,18 @@ function App() {
           </div>
           <div className="grid services-grid">
             <article className="card">
-              <h3>Brand Films</h3>
-              <p>
-                High-impact narratives that define who you are and why you
-                matter, in under three minutes.
-              </p>
+              <a 
+                href="https://youtube.com/shorts/3_wGGvSC2fQ?feature=share" 
+                target="_blank" 
+                rel="noreferrer"
+                style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}
+              >
+                <h3>Brand Films</h3>
+                <p>
+                  High-impact narratives that define who you are and why you
+                  matter, in under three minutes.
+                </p>
+              </a>
             </article>
             <article className="card">
               <a 
@@ -167,40 +174,60 @@ function App() {
           </div>
           <div className="grid work-grid">
             <article className="card card-work">
-              <div className="chip-row">
-                <span className="chip">Launch Spot</span>
-                <span className="chip">Commercial</span>
-              </div>
-              <h3>Inferno Launch</h3>
-              <p className="work-client">Client Name</p>
-              <p className="work-copy">
-                30-second product launch film built to light up feeds and
-                timelines.
-              </p>
+              <a 
+                href="https://youtube.com/shorts/NxV-uSeE8BU?feature=share" 
+                target="_blank" 
+                rel="noreferrer"
+                style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}
+              >
+                <div className="chip-row">
+                  <span className="chip">Launch Spot</span>
+                  <span className="chip">Commercial</span>
+                </div>
+                <h3>Inferno Launch</h3>
+                <p className="work-client">Natural Beauty Fence</p>
+                <p className="work-copy">
+                  Short product launch film built to light up feeds and
+                  timelines.
+                </p>
+              </a>
             </article>
             <article className="card card-work">
-              <div className="chip-row">
-                <span className="chip">Brand Film</span>
-                <span className="chip">Story</span>
-              </div>
-              <h3>Into the Fire</h3>
-              <p className="work-client">Client Name</p>
-              <p className="work-copy">
-                A cinematic origin story that turns company history into a
-                gripping arc.
-              </p>
+              <a 
+                href="https://www.youtube.com/watch?v=G1W-rwamKV8&list=PLALbWkxb1W5tiqXMlw1LMJqiWR4_R43yH" 
+                target="_blank" 
+                rel="noreferrer"
+                style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}
+              >
+                <div className="chip-row">
+                  <span className="chip">Brand Film</span>
+                  <span className="chip">Story</span>
+                </div>
+                <h3>YouTube Reality Series</h3>
+                <p className="work-client">WrestlingTournaments.com</p>
+                <p className="work-copy">
+                  A cinematic origin story that turns company history into a
+                  gripping arc.
+                </p>
+              </a>
             </article>
             <article className="card card-work">
-              <div className="chip-row">
-                <span className="chip">Social</span>
-                <span className="chip">Campaign</span>
-              </div>
-              <h3>Embers Daily</h3>
-              <p className="work-client">Client Name</p>
-              <p className="work-copy">
-                A series of short-form cuts engineered for repeat views and
-                shares.
-              </p>
+              <a 
+                href="https://youtube.com/@natural-beauty-fence?si=Xrzo9arE0HfZYsJH" 
+                target="_blank" 
+                rel="noreferrer"
+                style={{ textDecoration: 'none', color: 'inherit', display: 'block' }}
+              >
+                <div className="chip-row">
+                  <span className="chip">Social</span>
+                  <span className="chip">Campaign</span>
+                </div>
+                <h3>A YouTube Channel Built From Scratch</h3>
+                <p className="work-client">Natural Beauty Fence</p>
+                <p className="work-copy">
+                  This c
+                </p>
+              </a>
             </article>
           </div>
         </section>
