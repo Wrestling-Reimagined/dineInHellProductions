@@ -225,7 +225,7 @@ function App() {
                 <h3>A YouTube Channel Built From Scratch</h3>
                 <p className="work-client">Natural Beauty Fence</p>
                 <p className="work-copy">
-                  This c
+                Built a YouTube channel from zero to monetized — generating over $250,000 in sales in 2025.
                 </p>
               </a>
             </article>
