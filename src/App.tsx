@@ -269,29 +269,6 @@ function App() {
           </ol>
         </section>
 
-        <section id="testimonials" className="section">
-          <div className="section-header">
-            <p className="eyebrow">Testimonials</p>
-            <h2>What clients say when the smoke clears.</h2>
-          </div>
-          <div className="grid testimonials-grid">
-            <article className="card card-quote">
-              <p className="quote">
-                &quot;They didn&apos;t just make a video. They built the
-                centerpiece of our entire campaign.&quot;
-              </p>
-              <p className="quote-meta">Client Name, CMO at Brand</p>
-            </article>
-            <article className="card card-quote">
-              <p className="quote">
-                &quot;Fast, focused, and deadly accurate with the creative.
-                We&apos;ll be back.&quot;
-              </p>
-              <p className="quote-meta">Client Name, Founder</p>
-            </article>
-          </div>
-        </section>
-
         <section id="contact" className="section section-contact">
           <div className="section-header">
             <p className="eyebrow">Contact</p>
